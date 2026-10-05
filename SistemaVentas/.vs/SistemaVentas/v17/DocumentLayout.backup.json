@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\german\\onedrive\\escritorio\\sistemac#\\sistemaventas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\capapresentacion\\frmventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E9B7-5AB7-4464-ABBD-C830124CD3B1}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499CCC1-8738-4F6B-B73D-405AA75E608B}|CapaDatos\\CapaDatos.csproj|C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499CCC1-8738-4F6B-B73D-405AA75E608B}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92038C6A-F2D6-42C4-BF9F-221DE1735A07}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92038C6A-F2D6-42C4-BF9F-221DE1735A07}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.Designer.cs",
+              "ViewState": "AgIAAAICAAAAAAAAAAAiwBkCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:09:48.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CN_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Venta.cs",
+              "ToolTip": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:02:47.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Venta.cs",
+              "ToolTip": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:59:53.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAowDYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:53:27.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\GERMAN\\OneDrive\\Escritorio\\SistemaC#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:53:24.039Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
